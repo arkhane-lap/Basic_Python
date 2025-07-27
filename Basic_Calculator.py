@@ -1,4 +1,4 @@
-tilecolor = {"red": 100, "gold":200, "white":90}
+tilecolor = {"red": 100, "gold":200, "white":90, "gray":150}
 print("-------โปรแกรมคำนวณการปูกระเบื้อง by Uncle-------")
 try:
     tiles = int(input("คุณต้องการปูกระเบื้องทั้งหมดกี่แผ่น: "))
